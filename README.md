@@ -16,6 +16,7 @@
 
 ### Численные методы:
 - [Лабораторная работа №1](./NM_01.md) - явный и неявный методы Эйлера *** (Matlab)
+- Отчет л.р. №1 [Word](./NM/Reports/NM_Lab01_with_listing.docx) и [PDF](./NM/Reports/NM_Lab01_with_listing.pdf)
 
 
 
