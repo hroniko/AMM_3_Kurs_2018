@@ -19,7 +19,7 @@ X = zeros(1);
 Y = X;
 Z = X;
 
-stPz = ShootingMethod(a, b, N, stPy, enPz);
+stPz = ShootingMethod4(a, b, N, stPy, enPz);
 [X, Y, Z] = Adams2ExplicitMethod(a, b, N, stPy, stPz);
 
 titleValue = strcat('Решение краевой задачи методом стрельбы, N=', int2str(N));
